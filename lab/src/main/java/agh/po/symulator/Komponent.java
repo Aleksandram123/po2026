@@ -1,4 +1,6 @@
-package symulator;
+package agh.po.symulator;
+
+
 
 public class Komponent {
     private String producent;
@@ -19,3 +21,4 @@ public class Komponent {
         return model;
     }
 }
+

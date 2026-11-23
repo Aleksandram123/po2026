@@ -1,4 +1,6 @@
-package symulator;
+package agh.po.symulator;
+
+
 
 public class Silnik extends Komponent {
     private int maxObroty;
@@ -14,7 +16,7 @@ public class Silnik extends Komponent {
 
     public void uruchom() {
         this.stanSilnika = true;
-        this.obroty = 1000; // Przykładowe obroty biegu jałowego
+        this.obroty = 1000;
     }
 
     public void zatrzymaj() {

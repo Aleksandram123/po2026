@@ -1,4 +1,5 @@
-package symulator;
+package agh.po.symulator;
+
 
 public class Samochód {
     private Silnik silnik;

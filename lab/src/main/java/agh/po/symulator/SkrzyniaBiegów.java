@@ -1,4 +1,6 @@
-package symulator;
+package agh.po.symulator;
+
+
 
 public class SkrzyniaBiegów extends Komponent {
     private int aktualnyBieg;

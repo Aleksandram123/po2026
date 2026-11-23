@@ -1,4 +1,5 @@
-package symulator;
+package agh.po.symulator;
+
 
 public class Sprzęgło extends Komponent {
     private boolean stanSprzęgła;
@@ -20,3 +21,4 @@ public class Sprzęgło extends Komponent {
         return stanSprzęgła;
     }
 }
+
